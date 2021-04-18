@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\krzyp\source\repos\Semaphores\Semaphores\main.cpp(73,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\krzyp\source\repos\Semaphores\Semaphores\main.cpp(115,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\krzyp\source\repos\Semaphores\Semaphores\main.cpp(157,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\krzyp\source\repos\Semaphores\Semaphores\main.cpp(198,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Semaphores.vcxproj -> C:\Users\krzyp\source\repos\Semaphores\Debug\Semaphores.exe
